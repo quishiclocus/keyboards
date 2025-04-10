@@ -11,9 +11,9 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
-        // "rgblight": true,
-        // "tap_hold": true,
-        // "mod_tap": true
+        "rgblight": true,
+        "tap_hold": true,
+        "mod_tap": true,
     },
     "matrix_pins": {
         "cols": ["GP9", "GP10", "GP11", "GP12", "GP13", "GP18", "GP19", "GP20", "GP21", "GP22"],
